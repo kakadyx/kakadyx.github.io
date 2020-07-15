@@ -1,2 +1,2 @@
 # kakadyx.github.io
-My site
+Journey site template
